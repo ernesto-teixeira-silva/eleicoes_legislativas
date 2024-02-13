@@ -73,7 +73,7 @@ with st.container():
     """Em complemento é também possivel observar os quocientes ordenados, apurados pelo **Método da média mais alta de Hondt**, que corresponde à forma de apuramento do número de deputados eleitos por círculo eleitoral utilizado no [Sistema Eleitoral Português](https://www.parlamento.pt/Parlamento/Paginas/SistemaEleitoral.aspx)"""
 
 
-    st.write("Código fonte em: [https://github.com/ernesto-teixeira-silva](https://github.com/ernesto-teixeira-silva)")
+    st.write("Código fonte em: [https://github.com/ernesto-teixeira-silva](https://github.com/ernesto-teixeira-silva/eleicoes_legislativas)")
 
 st.write("---")
 
